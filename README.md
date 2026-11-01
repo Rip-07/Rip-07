@@ -23,5 +23,5 @@ Backend and integration engineer from Almaty, Kazakhstan. I connect systems that
 
 #### Stack
 
-**Daily:** Python (FastAPI, asyncio, pydantic) · PostgreSQL · Redis · Docker · TypeScript/React
+**Daily:** Python (FastAPI, asyncio, pydantic) · PostgreSQL · Redis · Docker · TypeScript/React<br>
 **Also:** Rust (Tokio, Axum) · C#/.NET · Java · MCP · Gitea Actions · Linux / Unraid
