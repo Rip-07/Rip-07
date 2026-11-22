@@ -10,11 +10,12 @@ Backend and integration engineer from Almaty, Kazakhstan. I connect systems that
 
 | | |
 |---|---|
-| **[bitrix24-mcp](https://github.com/Rip-07/bitrix24-mcp)** | MCP server that lets Claude, Cursor and other AI agents work with Bitrix24 CRM: deals, contacts, leads, tasks. Read-only by default, webhook secrets never reach logs. Python · MCP SDK 2 |
-| **[rdp-proxy](https://github.com/Rip-07/rdp-proxy)** | Small transparent TCP proxy that exposes an RDP host reachable over WireGuard, with IP allow-lists, connection limits, a health endpoint and Prometheus metrics. Rust · Tokio |
-| **[wake-on-lan](https://github.com/Rip-07/wake-on-lan)** | Wake-on-LAN microservice: computers are stored in PostgreSQL, an API-key protected HTTP endpoint sends the magic packet. Rust · Axum · SeaORM |
+| **[FahrenHack](https://github.com/Rip-07/FahrenHack)** | Open-source trainer for single-player PC games: console-style UI with gamepad support, ready-made game profiles with pointer-chain calibration, a Cheat Engine–style memory scanner and a phone remote over LAN. Rust · Windows |
 | **[unraid-telegram-bot](https://github.com/Rip-07/unraid-telegram-bot)** | Telegram bot to start, stop, restart and read logs of Docker containers on Unraid, with per-user, per-container permissions in PostgreSQL, a denylist and an allowlist-only `/exec`. Java 21 · Spring Boot |
+| **[wake-on-lan](https://github.com/Rip-07/wake-on-lan)** | Wake-on-LAN microservice: computers are stored in PostgreSQL, an API-key protected HTTP endpoint sends the magic packet. Wake from the iPhone Action Button via Shortcuts. Rust · Axum · SeaORM |
+| **[bitrix24-mcp](https://github.com/Rip-07/bitrix24-mcp)** | MCP server that lets Claude, Cursor and other AI agents work with Bitrix24 CRM: deals, contacts, leads, tasks. Read-only by default, webhook secrets never reach logs. Python · MCP SDK 2 |
 | **[pc-monitor-bot](https://github.com/Rip-07/pc-monitor-bot)** | Telegram bot that notifies you when your computers go online or offline, with `/status` on demand and a single authorized user. Python · python-telegram-bot |
+| **[rdp-proxy](https://github.com/Rip-07/rdp-proxy)** | Small transparent TCP proxy that exposes an RDP host reachable over WireGuard, with IP allow-lists, connection limits, a health endpoint and Prometheus metrics. Rust · Tokio |
 
 #### How I work
 
